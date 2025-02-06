@@ -22,3 +22,10 @@ def calculate_weighted_gini():
     return round(len(split_1) / len(node) * gini_index_1 + len(split_2) / len(node) * gini_index_2, 5)
 
 print(f"{round(calculate_gini(node), 2)} {round(calculate_weighted_gini(), 2)}")
+
+
+def foo():
+    while True:
+        print("hello")
+        input()
+        return 1
