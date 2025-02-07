@@ -3,3 +3,4 @@ content:
   - Intro to NumPy
   - Array creation and indexing
   - Series
+  - DataFrame
