@@ -4,3 +4,4 @@ content:
   - Array creation and indexing
   - Series
   - DataFrame
+  - Accessing data in a DataFrame
